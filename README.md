@@ -20,15 +20,6 @@ La aplicación es un ejercicio práctico para familiarizarse con el desarrollo e
 * **Kotlin:** Lenguaje de programación utilizado para la lógica de la aplicación. 
 * **XML:** Utilizado para definir el diseño de la interfaz de usuario (layouts). 
 
-## Instalación y Uso
-
-Para configurar y ejecutar este proyecto en tu entorno local, sigue estos pasos:
-
-### Requisitos Previos
-
-* **Android Studio 3.0 o superior:** Asegúrate de tener el IDE instalado en tu máquina. 
-* **SDK de Android:** Configurado con la API 28 (Android 9.0 Pie) o superior, ya que fue la versión mínima utilizada en el proyecto.
-
 ![image](https://github.com/user-attachments/assets/07dcbbed-79a5-43bf-b4d8-33388a0c20bd)
 
 ### Aprendizajes Clave
